@@ -1,0 +1,7 @@
+This software sends periodically data of use to a central data
+system for monitoring. Your online shop creators get adventage
+of the information to improve the development process.
+This data also contains the http address of the site where
+the software has been installed. Software creators could also
+use this information to contact software users so they can
+also recieve personal assistance in case they wish so.
