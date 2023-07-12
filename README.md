@@ -8,7 +8,7 @@ Shop sample => [Your Online Shop Demo Shop](https://youronlineshop.net/sample/)
 
 Admin => (usr/password) webadmin/webadmin, productsadmin/productsadmin
 
-Video Demo => https://youtu.be/PD_olszbGWA
+
 <table>
   <tr>
     <td>
